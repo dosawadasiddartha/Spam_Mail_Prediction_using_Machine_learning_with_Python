@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: notebook.ipynb
-Conversion Date: 2025-11-19T10:56:51.683Z
-"""
+
 
 # ### Spam Mail Prediction Using Machine Learning
 
